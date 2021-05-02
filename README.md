@@ -6,7 +6,7 @@ Se dividirá en dos esta tarea.
 
 ### Tarea Polimorfismo 1.
 
-- Lee el documento [Tarea_Polimorfismo.pdf](Tarea_Polimorifsmo.pdf) y realiza el programa descrito en el.  
+- Lee el documento [Tarea_Polimorfismo.pdf](Tarea_Polimorfismo.pdf) y realiza el programa descrito en el.  
 - Cada clase deberá tener su propio `archivo .h y .cpp` y serán guardados en el folder Tarea1.
 - Se deberá incluir un diagrama UML que represente su solución
 
