@@ -12,7 +12,7 @@ Se dividirá en dos esta tarea.
 
 ### Tarea Polimorfismo 2.
 
-- Modifica el programa de la Tarea Diseño Orientado a Objetos para desarrollar el concepto de Herencia en sus clases.
+- Modifica el programa de la Tarea Diseño Orientado a Objetos para desarrollar el concepto de Polimorfismo en sus clases.
 - Integra las clases desarrolladas en la Tarea Polimorfirsmo 1 para incluir diferentes tipos de paquetes.
 - Modifica el diagrama UML original para reflejar todos estos cambios.
 
