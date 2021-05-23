@@ -4,17 +4,16 @@
 
 Se dividirá en dos esta tarea.
 
-### Tarea Polimorfismo 1.
+### Tarea Polimorfismo  2 (MOC 100 pts)
+
+- Lee el documento [MOC.pdf](MOC.pdf) y realiza el programa descrito en el
+- Cada clase deberá tener su propio `archivo .h y .cpp` y serán guardados en el folder Tarea1.
+
+### Tarea Polimorfismo 2 (Extra 20 pts)
 
 - Lee el documento [Tarea_Polimorfismo.pdf](Tarea_Polimorfismo.pdf) y realiza el programa descrito en el.  
-- Cada clase deberá tener su propio `archivo .h y .cpp` y serán guardados en el folder Tarea1.
+- Cada clase deberá tener su propio `archivo .h y .cpp` y serán guardados en el folder Tarea2.
 - Se deberá incluir un diagrama UML que represente su solución
-
-### Tarea Polimorfismo 2.
-
-- Modifica el programa de la Tarea Diseño Orientado a Objetos para desarrollar el concepto de Polimorfismo en sus clases.
-- Integra las clases desarrolladas en la Tarea Polimorfirsmo 1 para incluir diferentes tipos de paquetes.
-- Modifica el diagrama UML original para reflejar todos estos cambios.
 
 
 
